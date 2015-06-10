@@ -1,0 +1,6 @@
+<?
+echo "Hello CMS";
+
+
+
+?>
