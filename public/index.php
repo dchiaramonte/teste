@@ -1,6 +1,4 @@
 <?
-echo "Hello CMS";
-
-
-
+echo "Hello CMS - alt";
+ 
 ?>
